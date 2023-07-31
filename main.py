@@ -1,3 +1,6 @@
+#https://api.bseindia.com/BseIndiaAPI/api/StockPriceCSVDownload/w?pageType=undefined&rbType=D&Scode=543671&FDates=01/02/2023&TDates=16/03/2023
+
+
 # pip install beautifulsoup4
 # pip install selenium
 
